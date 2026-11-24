@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+  <event id="101" type="login"><user>alex</user></event>
+  <event id="102" type="payment"><user>sam</user></event>
+  <event id="103" type="logout"><user>alex</user></event>
+</events>

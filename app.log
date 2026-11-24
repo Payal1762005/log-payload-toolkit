@@ -1,0 +1,8 @@
+2026-11-24 09:10:01 INFO Application started
+2026-11-24 09:12:14 INFO Health check passed
+2026-11-24 09:15:22 ERROR Authentication failed for user=alex
+2026-11-24 09:16:08 WARN Retry attempt=1
+2026-11-24 09:17:03 ERROR Database connection timeout
+2026-11-24 09:18:30 INFO Health check passed
+2026-11-24 09:19:41 ERROR Payment request returned status=500
+2026-11-24 09:20:02 WARN High response time
